@@ -1,3 +1,5 @@
+// Print factorial of n => Parameterised way
+
 #include<iostream>
 using namespace std;
 
